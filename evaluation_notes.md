@@ -1,0 +1,1 @@
+This project includes medical disclaimers, rejects non-drug queries, and uses RAG to avoid hallucinations.
